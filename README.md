@@ -17,7 +17,7 @@ docker run -itd --name tg-bot \
  -e "API_BASE_URL"="http://gameserver.ip:8212/v1/api" \
  -e "API_USERNAME"="admin" \
  -e "API_PASSWORD"="demo_rest_api_password" \
- imashen/tg-bot:latest
+ imashen/palworld-tgbot:latest
 ```
 其中：
 `ADMIN_PASSWORD`校验指令`/auth`时所用的密码，可以与机器人私聊来鉴权验证以使用管理员指令 </br>
