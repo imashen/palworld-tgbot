@@ -1,3 +1,7 @@
+# Language
+- ENG [English](README.md)
+- CHS [简体中文](README_CHS.md)
+  
 # Palworld-TgBot | Simple Functionality Bot for Palworld on Telegram
 This bot implements basic Telegram bot functionalities, such as retrieving the list of online players, kicking, banning, unbanning players, and broadcasting messages to the entire server.
 
@@ -25,5 +29,3 @@ API_BASE_URL is the base URL for the server's RestAPI. </br>
 API_USERNAME defaults to admin. </br>
 API_PASSWORD is the RestAPI password set on your Palworld server. </br>
 # Palworld-TgBot | 幻兽帕鲁Telegram简易功能机器人
-
-
